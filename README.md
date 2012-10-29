@@ -1,4 +1,1 @@
-ExamenPlaza
-===========
-
-ExamenPlaza
+Este es un comentario agregado por Carlos Ernesto López Natarén.
